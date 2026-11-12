@@ -15,7 +15,8 @@
     "guzzlehttp/guzzle": "^6.0"
   },
   "require-dev": {
-    "symfony/dotenv": "^4.0"
+    "symfony/dotenv": "^4.0",
+    "phpunit/phpunit": "^9.6"
   },
   "autoload": {
     "psr-4": {
